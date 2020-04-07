@@ -1,0 +1,8 @@
+.add-item-panel {
+    margin: 1.2rem 0rem;
+}
+
+.add-item-panel input {
+    height: auto;
+    margin-right: 4px;
+}
